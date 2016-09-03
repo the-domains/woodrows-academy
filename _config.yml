@@ -1,3 +1,4 @@
+layout_spectrum: 0.6451888810843229
 typography_spectrum: 0.7485362025909126
 color:
   brandStrength: 0.2663594167679548
@@ -10,7 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.6451888810843229
 name: Woodrow's Academy
-title: Social Media Bootcamp
-description: Become a social media soldier
